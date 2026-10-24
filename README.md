@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba, ben Ceyhun Aksoylu! 👋
 
-<!--
-**aksoyluceyhun88-png/aksoyluceyhun88-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+İnşaat Mühendisi & Yazılım Geliştirici
 
-Here are some ideas to get you started:
+## 👷‍♂️ Hakkımda
+- 🔭 Şu anda inşaat mühendisliği hesaplamaları ve yazılım projeleri üzerinde çalışıyorum.
+- 🌱 Python, C# ve mühendislik yazılımları üzerine kendimi geliştiriyorum.
+- 💬 İnşaat mühendisliği, statik hesaplamalar ve yazılım hakkında benimle iletişime geçebilirsiniz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Yetenekler & Araçlar
+- **Mühendislik:** AutoCAD, SAP2000, Sta4CAD
+- **Programlama:** Python, C#
+- **Versiyon Kontrol:** Git, GitHub
+
+## 📫 İletişim
+- LinkedIn: [Profil Linkiniz](https://tr.linkedin.com/in/ceyhun-aksoylu-aa0554258)
+- E-posta: [E-posta Adresiniz](aksoyluceyhun88@gmail.com)
